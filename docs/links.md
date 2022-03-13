@@ -20,6 +20,7 @@
 - [Душа vs. Мозг](https://www.youtube.com/watch?v=hvxB51OoS-c)
 - [Что такое сознание](https://www.youtube.com/watch?v=1mdMQhV-64A)
 - [Бог в нейронах](https://www.youtube.com/watch?v=BY9v5jOr4BY)
+- [Немногие знают…](https://www.youtube.com/watch?v=352l49KQ2Ks)
 
 Youtube каналы, где я не могу назвать конкретных видео.
 
