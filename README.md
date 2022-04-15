@@ -18,6 +18,7 @@
   - https://www.youtube.com/c/ivarlamov
   - https://www.youtube.com/c/MackNack
   - https://www.youtube.com/c/ВестникБури
+  - https://www.youtube.com/c/maxkatz1
   
   И знайте... Я, Z, V === 卐!
 
