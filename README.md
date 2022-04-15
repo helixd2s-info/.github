@@ -14,6 +14,10 @@
   - https://www.youtube.com/c/McDJLeadER
   - https://www.youtube.com/c/IzzyLaif
   - https://www.youtube.com/c/TrashRecord
+  - https://www.youtube.com/c/ВОТТАК
+  - https://www.youtube.com/c/ivarlamov
+  - https://www.youtube.com/c/MackNack
+  - https://www.youtube.com/c/ВестникБури
   
   И знайте... Я, Z, V === 卐!
 
