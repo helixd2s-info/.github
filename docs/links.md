@@ -55,6 +55,11 @@ Youtube каналы, где я не могу назвать конкретны�
 - [Артур Шарифов](https://www.youtube.com/c/ArturSharifov)
 - [Канал SHAPKA](https://www.youtube.com/c/SHAPKA99)
 - [ALI](https://www.youtube.com/channel/UCp6FZzRK_alXumcmytO7C8A)
+- **[Костяправ](https://www.youtube.com/channel/UC5JegsRbZuLF5bHg2_Oj7Rw)**
+- **[MyGap](https://www.youtube.com/c/MyGap)**
+- **[TrashRecord](https://www.youtube.com/c/TrashRecord)**
+- **[Mr. Freeman](https://www.youtube.com/c/mf0)**
+- **[Тайное, непознанное](https://www.youtube.com/channel/UCFQx40SBNiYPVV5CGiYX3UQ)**
 
 Ссылки про мнения науки, информация о сознании, о вере. Или разгоняем предрассудки. 
 
