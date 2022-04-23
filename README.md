@@ -67,14 +67,6 @@
   - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/interview.md)
   - ⚠️ [Моё мировоззрение и концепция](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/core.md)
 
-  Вы также можете совершить ваш дополнительный вклад, текущие адреса в данный момент: 
-
-  - 🪙 Ethereum: `0x4c57bd62bee3f445b19f649dd050a3cb4d78b0d8`
-  - 🪙 Bitcoin: `3AChWBKBBVCU7zedoyuq6RZyzCpj76WYhL`
-  - 🪙 DOGE: `DJj8gFEqdmsZ67txDFAfYWvdQuBtyHtRsR`
-
-  Это своего рода пожертвование, донат (проект `BHBP`).<br/>
-
   Пока можете писать мне сюда: 👑 `unit-a@helixd2s.ru` 👑.<br/>
   Планируемый домен для почты на Yandex: `unit-a@helixd2s-mail.ru` либо `unit-a@helixd2s-ya.ru`.<br/>
 
