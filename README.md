@@ -10,6 +10,7 @@
   - https://www.youtube.com/watch?v=1i7ByD78bYQ
   - https://www.youtube.com/watch?v=nGAdSbPY9qM
   - https://www.youtube.com/watch?v=eknV7pv8T4Y
+  - https://www.youtube.com/watch?v=eSNB9kgyxh4
   - https://www.youtube.com/c/МихаилЛидин
   - https://www.youtube.com/c/McDJLeadER
   - https://www.youtube.com/c/IzzyLaif
@@ -19,6 +20,7 @@
   - https://www.youtube.com/c/MackNack
   - https://www.youtube.com/c/ВестникБури
   - https://www.youtube.com/c/maxkatz1
+  - https://www.youtube.com/c/MyGap
   
   И знайте... Я, Z, V ≡ 卐!
 
