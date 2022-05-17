@@ -21,6 +21,7 @@
   - https://www.youtube.com/c/TrashRecord
   - https://www.youtube.com/c/MackNack
   - https://www.youtube.com/c/MyGap
+  - https://www.youtube.com/c/Hamuria
   - https://www.youtube.com/c/ivarlamov
   - https://www.youtube.com/c/maxkatz1
   - https://www.youtube.com/c/ictv
