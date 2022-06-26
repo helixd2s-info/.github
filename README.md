@@ -1,7 +1,7 @@
 # Коллектив `HeliX-D2S` (он же `IMN` или `МИР`)…
 
-## [Обсуждения/Discussions](https://github.com/helixd2s/about/discussions)
-## [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s/about/issues)
+## 💬 [Обсуждения/Discussions](https://github.com/helixd2s/about/discussions) 💬
+## 🐞 [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s/about/issues) 🐞
 
 ## Наши интересные материалы
 
