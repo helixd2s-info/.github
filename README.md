@@ -1,5 +1,11 @@
 # Коллектив `HeliX-D2S` (он же `IMN` или `МИР`)…
 
+# HeliX-D2S
+
+### 👑 [Alter](https://github.com/helixd2s/Alter), our main rendering project
+### 📀 [vk-utils](https://github.com/helixd2s/vk-utils), our helpers for Vulkan API development 
+### 🥀 [about](https://github.com/helixd2s/about), our idiology
+
 ## 💬 [Обсуждения/Discussions](https://github.com/helixd2s/about/discussions) 💬
 ## 🐞 [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s/about/issues) 🐞
 
