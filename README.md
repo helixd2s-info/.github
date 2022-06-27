@@ -17,7 +17,7 @@
   - 📑 [Наши правила](docs/rules.md)
   - 🍿 [Наши материалы](docs/links.md)
   - 📚 [Книги на прочтение](docs/books.md)
-  - 💡 [Идеи законов для нашей страны](docs/government/russian-zakon.md) 
+  - 💡 [Проект по борьбе с фашизмом](docs/anti-fascism.md) 
 
 ## Помощь по ПК…
 
