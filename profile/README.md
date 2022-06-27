@@ -45,6 +45,17 @@
   - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/interview.md)
   - ⚠️ [Моё мировоззрение и концепция](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/core.md)
 
+  📑 Контактные данные… 📑
+
+  - **Мобильный телефон:** `+79243987000`
+  - **Email:** `helixd.2k18@yandex.ru`
+  - **Сайт:** [http://unit-a.helixd2s.su/](http://unit-a.helixd2s.su/)
+  - **VK:** [https://vk.com/unit_a_user](https://vk.com/unit_a_user)
+  - **Github:** [https://github.com/unit-a-user](https://github.com/unit-a-user)
+  - **Github (ресурсы):** [https://github.com/helixd2s/unit-a](https://github.com/helixd2s/unit-a)
+  - **Основные Emoji (эмоции):** 🥲😢😭😿😔😣🤬
+  - **Основные Emoji (символика):** 🥀💔🗡️💉🔞☠️🪦🗿🚬🍾🖤
+
 ## Насчёт значков, и их возможные значения…
 
   - [🥀] Ничего особенного…
