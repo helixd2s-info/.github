@@ -11,17 +11,17 @@
 
   Непосредственно содержимое…
 
-  - 🥀 [Прочтите](docs/readme.md)
-  - 📑 [Наши правила](docs/rules.md)
-  - 🍿 [Наши материалы](docs/links.md)
-  - 📚 [Книги на прочтение](docs/books.md)
-  - 💡 [Идеи законов для нашей страны](docs/government/russian-zakon.md) 
+  - 🥀 [Прочтите](https://github.com/helixd2s/about/docs/readme.md)
+  - 📑 [Наши правила](https://github.com/helixd2s/about/docs/rules.md)
+  - 🍿 [Наши материалы](https://github.com/helixd2s/about/docs/links.md)
+  - 📚 [Книги на прочтение](https://github.com/helixd2s/about/docs/books.md)
+  - 💡 [Проект по борьбе с фашизмом](https://github.com/helixd2s/about/docs/anti-fascism.md) 
 
 ## Помощь по ПК…
 
-  - 🥀 [Об этом](docs/pc-core/about.md)
-  - 🪟 [Windows](docs/pc-core/windows.md)
-  - 🐧 [Linux](docs/pc-core/linux.md)
+  - 🥀 [Об этом](https://github.com/helixd2s/about/docs/pc-core/about.md)
+  - 🪟 [Windows](https://github.com/helixd2s/about/docs/pc-core/windows.md)
+  - 🐧 [Linux](https://github.com/helixd2s/about/docs/pc-core/linux.md)
 
 ## Ссылки/Links
 
