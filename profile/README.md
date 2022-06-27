@@ -19,9 +19,9 @@
 
 ## Помощь по ПК…
 
-  - 🥀 [Об этом](https://github.com/helixd2s/about/docs/blob/main/pc-core/about.md)
-  - 🪟 [Windows](https://github.com/helixd2s/about/docs/blob/main/pc-core/windows.md)
-  - 🐧 [Linux](https://github.com/helixd2s/about/docs/blob/main/pc-core/linux.md)
+  - 🥀 [Об этом](https://github.com/helixd2s/about/blob/main/docs/pc-core/about.md)
+  - 🪟 [Windows](https://github.com/helixd2s/about/blob/main/docs/pc-core/windows.md)
+  - 🐧 [Linux](https://github.com/helixd2s/about/blob/main/docs/pc-core/linux.md)
 
 ## Ссылки/Links
 
