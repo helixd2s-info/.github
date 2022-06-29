@@ -55,6 +55,7 @@
   - **VK:** [https://vk.com/unit_a_user](https://vk.com/unit_a_user)
   - **Github:** [https://github.com/unit-a-user](https://github.com/unit-a-user)
   - **Github (ресурсы):** [https://github.com/helixd2s/unit-a](https://github.com/helixd2s/unit-a)
+  - **Telegram:** [https://t.me/unit_a_user](https://t.me/unit_a_user)
   - **Основные Emoji (эмоции):** 🥲😢😭😿😔😣🤬
   - **Основные Emoji (символика):** 🥀💔🗡️💉🔞☠️🪦🗿🚬🍾🖤
 
