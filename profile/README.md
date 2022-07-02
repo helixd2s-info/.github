@@ -42,7 +42,7 @@
 
   Обо мне и моих измышлениях…
 
-  - 👑 [Моя личность, психология и психика](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/personal.md)
+  - 👑 **[Моя личность, психология и психика](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/personal.md)**
   - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/interview.md)
   - ⚠️ [Моё мировоззрение и концепция](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/core.md)
 
