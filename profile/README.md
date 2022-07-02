@@ -1,9 +1,9 @@
 # Коллектив `HeliX-D2S`…
 
-## 🚧 [Main Organization](https://github.com/helixd2s) 🚧
-## 💬 [Обсуждения/Discussions](https://github.com/helixd2s/about/discussions) 💬
-## 🐞 [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s/about/issues) 🐞
-## 🥀 [Акция скорби](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/personal.md) 🥀
+## 🚧 [Main Organization](https://github.com/helixd2s-info) 🚧
+## 💬 [Обсуждения/Discussions](https://github.com/helixd2s-info/about/discussions) 💬
+## 🐞 [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s-info/about/issues) 🐞
+## 🥀 [Акция скорби](https://github.com/helixd2s-info/unit-a/blob/main/docs/unit-a/personal.md) 🥀
 
 # HeliX-D2S
 
@@ -14,17 +14,17 @@
 
   Непосредственно содержимое…
 
-  - 🥀 [Прочтите](https://github.com/helixd2s/about/blob/main/docs/readme.md)
-  - 📑 [Наши правила](https://github.com/helixd2s/about/blob/main/docs/rules.md)
-  - 🍿 [Наши материалы](https://github.com/helixd2s/about/blob/main/docs/links.md)
-  - 📚 [Книги на прочтение](https://github.com/helixd2s/about/blob/main/docs/books.md)
-  - 💡 [Проект по борьбе с фашизмом](https://github.com/helixd2s/about/blob/main/docs/anti-fascism.md) 
+  - 🥀 [Прочтите](https://github.com/helixd2s-info/about/blob/main/docs/readme.md)
+  - 📑 [Наши правила](https://github.com/helixd2s-info/about/blob/main/docs/rules.md)
+  - 🍿 [Наши материалы](https://github.com/helixd2s-info/about/blob/main/docs/links.md)
+  - 📚 [Книги на прочтение](https://github.com/helixd2s-info/about/blob/main/docs/books.md)
+  - 💡 [Проект по борьбе с фашизмом](https://github.com/helixd2s-info/about/blob/main/docs/anti-fascism.md) 
 
 ## Помощь по ПК…
 
-  - 🥀 [Об этом](https://github.com/helixd2s/about/blob/main/docs/pc-core/about.md)
-  - 🪟 [Windows](https://github.com/helixd2s/about/blob/main/docs/pc-core/windows.md)
-  - 🐧 [Linux](https://github.com/helixd2s/about/blob/main/docs/pc-core/linux.md)
+  - 🥀 [Об этом](https://github.com/helixd2s-info/about/blob/main/docs/pc-core/about.md)
+  - 🪟 [Windows](https://github.com/helixd2s-info/about/blob/main/docs/pc-core/windows.md)
+  - 🐧 [Linux](https://github.com/helixd2s-info/about/blob/main/docs/pc-core/linux.md)
 
 ## Ссылки/Links
 
@@ -35,7 +35,7 @@
 
 ## Члены нашей "семьи"
 
-### **[**[Unit-A](https://github.com/helixd2s/unit-a)**]** (Организатор)
+### **[**[Unit-A](https://github.com/helixd2s-info/unit-a)**]** (Организатор)
 
   - 🥀 https://github.com/helixd2s/unit-a (резерв)
   - 🥀 https://github.com/unit-a-user (профиль)
@@ -44,9 +44,9 @@
 
   Обо мне и моих измышлениях…
 
-  - 👑 **[Моя личность, психология и психика](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/personal.md)**
-  - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/interview.md)
-  - ⚠️ [Моё мировоззрение и концепция](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/core.md)
+  - 👑 **[Моя личность, психология и психика](https://github.com/helixd2s-info/unit-a/blob/main/docs/unit-a/personal.md)**
+  - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s-info/unit-a/blob/main/docs/unit-a/interview.md)
+  - ⚠️ [Моё мировоззрение и концепция](https://github.com/helixd2s-info/unit-a/blob/main/docs/unit-a/core.md)
 
   📑 Контактные данные… 📑
 
