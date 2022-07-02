@@ -28,8 +28,8 @@
 
 ## Ссылки/Links
 
-  - 👑 [GitHub, документация](https://github.com/helixd2s/about)
-  - 🥀 [GitHub, идеология](https://github.com/helixd2s/core) (резерв)
+  - 👑 [GitHub, документация](https://github.com/helixd2s-info/about)
+  - 🥀 [GitHub, идеология](https://github.com/helixd2s-info/core) (резерв)
   - 🥀 [VK паблик](https://vk.com/helixd2s)
   - 🥀 [Наш сайт](http://about.helixd2s.su/) (там просто редирект пока что)
 
