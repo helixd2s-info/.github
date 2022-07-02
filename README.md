@@ -1,9 +1,9 @@
 # Коллектив `HeliX-D2S`…
 
 ## 🚧 [Main Organization](https://github.com/helixd2s) 🚧
-## 💬 [Обсуждения/Discussions](https://github.com/helixd2s/about/discussions) 💬
-## 🐞 [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s/about/issues) 🐞
-## 🥀 [Акция скорби](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/personal.md) 🥀
+## 💬 [Обсуждения/Discussions](https://github.com/helixd2s-info/about/discussions) 💬
+## 🐞 [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s-info/about/issues) 🐞
+## 🥀 [Акция скорби](https://github.com/helixd2s-info/unit-a/blob/main/docs/unit-a/personal.md) 🥀
 
 # HeliX-D2S
 
@@ -28,8 +28,8 @@
 
 ## Ссылки/Links
 
-  - 👑 [GitHub, документация](https://github.com/helixd2s/about)
-  - 🥀 [GitHub, идеология](https://github.com/helixd2s/core) (резерв)
+  - 👑 [GitHub, документация](https://github.com/helixd2s-info/about)
+  - 🥀 [GitHub, идеология](https://github.com/helixd2s-info/core) (резерв)
   - 🥀 [VK паблик](https://vk.com/helixd2s)
   - 🥀 [Наш сайт](http://about.helixd2s.su/) (там просто редирект пока что)
 
@@ -44,9 +44,9 @@
 
   Обо мне и моих измышлениях…
 
-  - 👑 **[Моя личность, психология и психика](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/personal.md)**
-  - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/interview.md)
-  - ⚠️ [Моё мировоззрение и концепция](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/core.md)
+  - 👑 **[Моя личность, психология и психика](https://github.com/helixd2s-info/unit-a/blob/main/docs/unit-a/personal.md)**
+  - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s-info/unit-a/blob/main/docs/unit-a/interview.md)
+  - ⚠️ [Моё мировоззрение и концепция](https://github.com/helixd2s-info/unit-a/blob/main/docs/unit-a/core.md)
 
   📑 Контактные данные… 📑
 
