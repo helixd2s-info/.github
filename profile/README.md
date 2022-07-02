@@ -1,6 +1,6 @@
 # Коллектив `HeliX-D2S`…
 
-## 🚧 [Main Organization](https://github.com/helixd2s-info) 🚧
+## 🚧 [Main Organization](https://github.com/helixd2s) 🚧
 ## 💬 [Обсуждения/Discussions](https://github.com/helixd2s-info/about/discussions) 💬
 ## 🐞 [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s-info/about/issues) 🐞
 ## 🥀 [Акция скорби](https://github.com/helixd2s-info/unit-a/blob/main/docs/unit-a/personal.md) 🥀
